@@ -5,4 +5,4 @@ authors = ["rect0x51 <rect0x51@protonmail.com>"]
 edition = "2018"
 
 [dependencies]
-serenity = "0.5"
+serenity = "0.11"
